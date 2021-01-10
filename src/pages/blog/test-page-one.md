@@ -6,6 +6,7 @@ tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 template: post
+image: images/fix-n-flip.jpg
 ---
 ## Something Important
 
