@@ -3,7 +3,7 @@ title: Test Post One
 date: '2021-01-10'
 categories: []
 tags: []
-image_alt: lorem-ipsum
+image_alt: Some text that goes along with the image.
 excerpt: lorem-ipsum
 template: post
 image: images/fix-n-flip.jpg
