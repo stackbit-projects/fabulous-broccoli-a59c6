@@ -4,8 +4,10 @@ sections:
   - type: hero_section
     title: This is a headline...
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      This is some test text. The quick brown fox jumped over the lazy dog. The
+      quick brown fox jumped over the lazy dog. The quick brown fox jumped over
+      the lazy dog. The quick brown fox jumped over the lazy dog. The quick
+      brown fox jumped over the lazy dog...
     actions:
       - label: Learn More
         url: /features
