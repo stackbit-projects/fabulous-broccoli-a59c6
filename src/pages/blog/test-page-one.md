@@ -7,9 +7,9 @@ image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 template: post
 ---
-## Lorem ipsum
+## Something Important
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Content can be broken up into sections. **Important words** can be bolded using asterisks. How customizable is the content though?
 
-- Lorem ipsum
-- dolor sit amet
+- Somewhat
+- Very
